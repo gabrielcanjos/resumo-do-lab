@@ -46,6 +46,15 @@ Grupos de recursos, estes por sua vez, organizam e gerenciam recursos relacionad
 Assinatura do Azure, ela define os limites de uso e cobrança dos serviços na nuvem, vinculando recursos a um plano de pagamento;
 Grupos de Gerenciamento, eles facilitam a administração de múltiplas assinaturas, aplicando políticas e controle centralizado.
 
+Por fim, aprendi sobre Computação e rede na Azure. Foram abordados diversos tópicos, dentre eles destacam-se:
+
+Máquinas Virtuais do Azure, onde permite a criação e gerenciamento de VMs escaláveis, com flexibilidade para rodar sistemas operacionais e aplicações em diferentes configurações;
+Conjuntos de Disponibilidade, visam garantir alta disponibilidade e redundância para VMs;
+Azure Virtual Desktop e Contêineres, o Azure Virtual Desktop oferece desktops na nuvem, enquanto os contêineres permitem a implantação e gerenciamento eficiente de aplicativos em contêineres;
+Azure Functions e Azure App Services, O Azure Functions é uma plataforma serverless para executar código em resposta a eventos, e o Azure App Services facilita a hospedagem de aplicativos web, APIs e backends móveis.
+
+Esses serviços do Azure permitem criar, escalar e gerenciar aplicativos de forma flexível e eficiente, com alta disponibilidade e custos otimizados.
+
 
 
 
