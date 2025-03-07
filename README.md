@@ -26,3 +26,19 @@ Confiabilidade, Previsibilidade e Segurança, eles são importantes pois obtém 
 Governança e Gerenciabilidade, são ferramentas integradas para monitoramento, conformidade e administração eficiente dos recursos na nuvem.
 
 Esses benefícios tornam a Nuvem Azure uma solução estratégica para modernização e otimização de serviços.
+
+Durante esse laboratório, foi abordado também a questão dos principais tipos de serviço na Azure.
+
+Dentre eles, destacam-se:
+
+IaaS(Infrastructure as a Service), esse tipo de serviço fornece infraestrutura virtualizada, como servidores e redes, permitindo controle total sobre o ambiente;
+PaaS(Platform as a Service), onde oferece uma plataforma gerenciada para desenvolvimento e hospedagem de aplicações, sem necessidade de gerenciar servidores;
+SaaS(Software as a Service), Este por sua vez disponibiliza softwares completos via nuvem, sem necessidade de instalação ou manutenção.
+
+Dentro desse mesmo laboratório, aborda-se o Modelo de Responsabilidade Compartilhada, que define o que a Microsoft gerencia (infraestrutura, segurança física) e o que o usuário deve administrar (configuração, dados e acessos), garantindo segurança e conformidade.
+
+Esse tópico abordado é muito importante, pois esse conhecimento ajuda a escolher o serviço ideal para cada necessidade na nuvem.
+
+
+
+
