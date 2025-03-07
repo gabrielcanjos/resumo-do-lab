@@ -39,6 +39,17 @@ Dentro desse mesmo laboratório, aborda-se o Modelo de Responsabilidade Comparti
 
 Esse tópico abordado é muito importante, pois esse conhecimento ajuda a escolher o serviço ideal para cada necessidade na nuvem.
 
+Explora-se também os principais componentes da arquitetura do Azure e sua organização, dentre eles enfatiza-se:
+
+Pares de Região, conclui-se que o Azure possui regiões emparelhadas para garantir alta disponibilidade e recuperação de desastres;
+Grupos de recursos, estes por sua vez, organizam e gerenciam recursos relacionados em um único local;
+Assinatura do Azure, ela define os limites de uso e cobrança dos serviços na nuvem, vinculando recursos a um plano de pagamento;
+Grupos de Gerenciamento, eles facilitam a administração de múltiplas assinaturas, aplicando políticas e controle centralizado.
+
+
+
+
+
 
 
 
